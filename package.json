@@ -1,0 +1,14 @@
+{
+  "name": "Chatbot-Messenger",
+  "version": "1.0.0",
+  "description": "Proyecto de chatbot para facebook messenger",
+  "main": "app.js",
+  "repository": "https://github.com/jatib/FacebookChatBot",
+  "author": "Jatib",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
